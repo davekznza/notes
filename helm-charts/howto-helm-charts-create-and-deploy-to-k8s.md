@@ -6,8 +6,8 @@ Quick example which deploys a container called **myapp** which runs on `http://0
 - There are examples for both **NodePort** and **LoadBalancer** deployment options
 
 Additional related notes to see:
-- Notes: Helm Charts
-- Howto: Create your own helm chart repository
+- [Notes: Helm Charts](https://github.com/davekznza/notes/blob/main/helm-charts/README.md)
+- [Howto: Create your own helm chart repository](https://github.com/davekznza/notes/blob/main/helm-charts/howto-helm-charts-create-custom-chart-repo.md)
 
 References / documentation used to create this note:
 - https://www.baeldung.com/ops/kubernetes-helm

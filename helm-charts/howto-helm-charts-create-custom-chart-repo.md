@@ -1,8 +1,8 @@
 # Howto: Create your own helm chart repository
 
 Additional related notes to see:
-- Notes: Helm Charts
-- Howto: Create a basic helm chart and deploy to k8s
+- [Notes: Helm Charts](https://github.com/davekznza/notes/blob/main/helm-charts/README.md)
+- [Howto: Create a basic helm chart and deploy to k8s](https://github.com/davekznza/notes/blob/main/helm-charts/howto-helm-charts-create-and-deploy-to-k8s.md)
 
 References / documentation used to create this note:
 - https://www.baeldung.com/ops/kubernetes-helm

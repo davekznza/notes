@@ -3,8 +3,8 @@
 General notes around helm-charts. 
 
 Additional related notes to see:
-- Howto: Create a basic helm chart and deploy to k8s
-- Howto: Create your own helm chart repository
+- [Howto: Create a basic helm chart and deploy to k8s](https://github.com/davekznza/notes/blob/main/helm-charts/howto-helm-charts-create-and-deploy-to-k8s.md)
+- [Howto: Create your own helm chart repository](https://github.com/davekznza/notes/blob/main/helm-charts/howto-helm-charts-create-custom-chart-repo.md)
 
 References / documentation used to create this note:
 - https://www.baeldung.com/ops/kubernetes-helm

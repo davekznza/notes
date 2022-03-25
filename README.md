@@ -1,1 +1,3 @@
-Collection of various personal notes which cover a range of topics / tools. These are my own personal notes and come with no guarantees, there will be errors so please refer to official documentation and references for more info.
+Collection of various personal notes which cover a range of topics / tools. 
+
+**Note:** These are my own personal notes, there will be errors so please refer to official documentation and references for more info.
