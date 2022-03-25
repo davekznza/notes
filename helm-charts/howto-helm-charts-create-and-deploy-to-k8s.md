@@ -1,7 +1,7 @@
 # Howto: Create a basic helm chart and deploy to k8s
 
 Quick example which deploys a container called **myapp** which runs on `http://0.0.0.0:5555`.
-- The image used here is hosted on my local docker registry (`localhost:5000`) which k8s can already access
+- The image used here is hosted on my local docker registry (`localhost:5000`) which k8s can already access (note I'm using minikube)
 - This uses a simple python flask app container created with docker: `localhost:5000/myapp:latest`
 - There are examples for both **NodePort** and **LoadBalancer** deployment options
 
